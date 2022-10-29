@@ -1,4 +1,4 @@
-## <a href="url"><Underrated-GD-Levels
+## <a href="url" target="_blank" title="Underrated GD Levels">Underrated GD Levels</a>
 
 # Welcome!
 
@@ -16,3 +16,9 @@ Sure, you might want to be anxious to add your levels (or maybe not), but before
 - DON'T beg RobTop to rate it. Don't be a Boy Of The Cones.
 
 That's it really.
+
+<b> Website can be accessed by clicking the title, or <a href="url" target="_blank" title="Underrated GD Levels">here.</a>
+
+# Moderators and Contributors
+
+As of now, there aren't any mods or contributors. But if you want to apply, do the Google Form via <a href="url" target="_blank" title="Underrated GD Levels Mods and Contributors Application form">this link.</a>
